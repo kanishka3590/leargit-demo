@@ -1,2 +1,2 @@
-this is demo
+this is demo for remote repository.
 
